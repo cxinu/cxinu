@@ -1,12 +1,12 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a NextJS Community Contributor by night ☾
+#### A Full-Stack Developer by day ☼ and passionate about Game development by night ☾
 
-I'm Chinmay, a full-stack developer with expertise in Node.js, React, Python, and more. I love working with Next.js, Prisma ORM, Tailwind CSS, and Framer Motion to build awesome web applications.
+I'm Chinmay, a full-stack developer with expertise in Node.js, React, Python, and more. I love working with Next.js and Prisma ORM to build awesome web applications.
 
-- ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm probably reading the **manuals** rn
-- 💬 `ping` me about **design**, **ai**, **systems**, **react**, **development**
+- ⚙️ I use daily: `.tsx`, `.js`, `.ts`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm probably reading the **manuals** (docs)
+- 💬 `ping` me about **UI/UX**, **ai**, **systems**, **react**, **development**
 
 #### Technologies ⚡
 
