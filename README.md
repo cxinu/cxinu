@@ -21,8 +21,6 @@ I'm Chinmay, a full-stack developer with expertise in Node.js, React, Python, an
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
-![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=for-the-badge&logo=testing-library)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
