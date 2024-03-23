@@ -12,6 +12,7 @@ I'm Chinmay, a full-stack developer with expertise in Node.js, React, Python, an
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
 ![Prisma](https://img.shields.io/badge/-Prisma-1B222D?style=for-the-badge&logo=prisma)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
