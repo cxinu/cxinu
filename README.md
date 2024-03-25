@@ -32,3 +32,11 @@ I'm Chinmay, a full-stack developer with expertise in Node.js, React, Python, an
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-FF6600?style=for-the-badge&logo=openai)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciobraz/mauriciobraz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciobraz/mauriciobraz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/mauriciobraz/mauriciobraz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
