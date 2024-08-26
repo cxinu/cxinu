@@ -3,9 +3,9 @@
 </h3>
 
 ---
-#### ⚙️ I do Backend and some Game Dev for fun
+#### ⚙️ I do Backend and some Computer Science for fun
 
-    Often developing with Node.js and Python. 
+    langs: ts/py/go/rs
 
 #### ⚡ Technologies 
 
