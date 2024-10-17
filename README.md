@@ -1,10 +1,3 @@
-<h3 align="center">
-    <a href="https://cxinu.dev">cxinu.dev</a>
-</h3>
-
----
-#### ⚙️ I do `backend development` and Computer Science for fun
-
 ```yml
 langs: ts/py/go/rs
 ```
