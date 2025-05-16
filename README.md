@@ -1,7 +1,16 @@
-# 👋 Hey, I'm Chinmay
+# 💠 About me
 
 ```txt
-"I use Arch btw" — and Neovim
+          .               cxinu@nyarch
+         / \
+        /   \               Arch Linux x86_64
+       /\    \              Linux 6.14.5-arch1-1
+      /       \             Packages - 1420 (amazon)
+     /         \            Pet2 - fishy 4.0.2
+    /    .-.    \           Pet1 - kitty 0.41.1
+   /    |   |   _\          FavWindow - Neovim
+  /   _.'   '._   \         Uptime - 20 years
+ /_.-'         '-._\
 
 ```
 
