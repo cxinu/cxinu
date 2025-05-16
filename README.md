@@ -1,15 +1,15 @@
-# 💠 About me
+## 💠 About me
 
 ```txt
           .               cxinu@nyarch
          / \
-        /   \               Arch Linux x86_64
-       /\    \              Linux 6.14.5-arch1-1
-      /       \             Packages - 1420 (amazon)
-     /         \            Pet2 - fishy 4.0.2
-    /    .-.    \           Pet1 - kitty 0.41.1
-   /    |   |   _\          FavWindow - Neovim
-  /   _.'   '._   \         Uptime - 20 years
+        /   \             ⚙️  Arch Linux x86_64
+       /\    \            🐉  Linux 6.14.5-arch1-1
+      /       \           📦  Packages - 1420 (amazon)
+     /         \          🐟  Pet_1 - fishy 4.0.2
+    /    .-.    \         🐈  Pet_2 - kitty 0.41.1
+   /    |   |   _\        ◻️  FavWindow - Neovim
+  /   _.'   '._   \       ⏳  Uptime - 20 years
  /_.-'         '-._\
 
 ```
@@ -17,6 +17,12 @@
 I'm a backend-focused systems engineer who loves building fast, reliable things — whether that's a high-performance proxy, a custom Git client, or a CTF exploit. I care deeply about Linux internals, network protocols, and clean, efficient code.
 
 ## 📚 Currently Learning
+
+![C](https://img.shields.io/badge/C-%23FFFFFF.svg?style=for-the-badge&logo=c)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23AA9966.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23995555.svg?style=for-the-badge&logo=linux)
+![Neovim](https://img.shields.io/badge/neovim-%23444499.svg?style=for-the-badge&logo=neovim)
 
 - **Languages:** Go, Python, C, Lua
 - **Systems:** Linux, Docker, Git, FFmpeg, Neovim
