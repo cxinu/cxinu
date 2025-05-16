@@ -38,9 +38,13 @@ I'm a backend-focused systems engineer who loves building fast, reliable things 
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxinu&layout=compact&theme=dark&hide=cmake&card_width=600&hide_border=true)
+<details>
+    <summary><b>Wakatime Stats</b></summary>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cxinu&theme=dark&layout=compact&card_width=600&hide_border=true" width="600" height="300" />
+</details>
 
 ## 🛰️ Contact & Links
 
-- 📫 Email: [cxinu3099@gmail.com]
-- 🧩 Discord: `eep.cpp`
-
+<a href="https://discord.com/users/575245382691323909"><img src="https://img.shields.io/badge/Discord-eep.cpp-7289da"></a>
+<a href="https://cxinu.github.io" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-cxinu.github.io-blue"></a>
+<a href="mailto:cxinu3099@gmail.com"><img src="https://img.shields.io/badge/Email-cxinu3099%40gmail.com-yellow"></a>
