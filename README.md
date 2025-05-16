@@ -37,10 +37,10 @@ I'm a backend-focused systems engineer who loves building fast, reliable things 
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxinu&layout=compact&theme=dark&hide=cmake&card_width=600&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxinu&layout=compact&theme=material-palenight&hide=cmake&card_width=600&hide_border=true)
 <details>
     <summary><b>Wakatime Stats</b></summary>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cxinu&theme=dark&layout=compact&card_width=600&hide_border=true" width="600" height="300" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cxinu&theme=material-palenight&layout=compact&card_width=600&hide_border=true" width="600" height="300" />
 </details>
 
 ## 🛰️ Contact & Links
