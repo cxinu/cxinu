@@ -12,7 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cxinu&theme=material-palenight&layout=compact&card_width=600&hide_border=true" width="600" height="300" />
 </details>
 
-### 🛰️ Contact & Links
+#### 🥟 Contact & Links
 
 <a href="https://discord.com/users/575245382691323909"><img src="https://img.shields.io/badge/Discord-eep.cpp-7289da"></a>
 <a href="https://cxinu.github.io" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-cxinu.github.io-blue"></a>
