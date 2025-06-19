@@ -5,7 +5,7 @@
 ![Neovim](https://img.shields.io/badge/neovim-%23444499.svg?style=for-the-badge&logo=neovim)
 
 - [norse VCS](https://github.com/synthcynth/norse): Implementation of Version Control System in Odin System Programming language
-- [lua-nginx-ratelimit](https://github.com/cxinu/lua-nginx-ratelimit): A powerful Nginx ratelimiter Lua Library that Supports Redis Backend
+- [lua-resty-ratelimit](https://github.com/cxinu/lua-resty-ratelimit): A powerful Nginx ratelimiter Lua Library that Supports Redis Backend
 
 <details>
     <summary><b>Wakatime Stats</b></summary>
