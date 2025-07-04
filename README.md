@@ -4,7 +4,7 @@
 ![Linux](https://img.shields.io/badge/linux-%23995555.svg?style=for-the-badge&logo=linux)
 ![Neovim](https://img.shields.io/badge/neovim-%23444499.svg?style=for-the-badge&logo=neovim)
 
-- [norse VCS](https://github.com/synthcynth/norse): Implementation of Version Control System in Odin System Programming language
+- [norse VCS](https://github.com/cxinu/norse): Implementation of Version Control System in Odin System Programming language
 - [rllib](https://github.com/cxinu/rllib): A powerful Nginx ratelimiter Lua Library that Supports Redis Backend
 
 <details>
